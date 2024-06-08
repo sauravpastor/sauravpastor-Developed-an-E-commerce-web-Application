@@ -1,0 +1,112 @@
+{
+
+    "product":[
+        {
+            "id":1,
+            "name":"sneakers",
+            "price":1500,
+            "image":"card-item1.jpg",
+            "brand":"Puma"
+        },
+        {
+            "id":2,
+            "name":"Nike Air",
+            "price":3400,
+            "image":"card-item2.jpg",
+            "brand":"Nike"
+        },
+        {
+            "id":3,
+            "name":"Running Shoe",
+            "price":1500,
+            "image":"card-item3.jpg",
+            "brand":"Puma"
+        },
+        {
+            "id":4,
+            "name":"Nike Air1",
+            "price":1500,
+            "image":"card-item4.jpg",
+            "brand":"Nike"
+        },
+        {
+            "id":5,
+            "name":"Nike Jump",
+            "price":1500,
+            "image":"card-item5.jpg",
+            "brand":"Nike"
+        },
+        {
+            "id":6,
+            "name":"Multi Color Sneakers",
+            "price":32000,
+            "image":"card-item6.jpg",
+            "brand":"Puma"
+        },
+       
+        {
+            "id":8,
+            "name":"New Balance",
+            "price":1500,
+            "image":"card-item8.jpg",
+            "brand":"NB"
+        },
+      
+        {
+            "id":10,
+            "name":"Nike Air3",
+            "price":8500,
+            "image":"card-item10.jpg",
+            "brand":"Nike"
+        },
+        {
+            "id":11,
+            "name":"airjorden4",
+            "price":40000,
+            "image":"airjorden4.jpg",
+            "brand":"Nike"
+        },
+        {
+            "id":12,
+            "name":"addidas Run",
+            "price":42000,
+            "image":"slider_addidas.png",
+            "brand":"addidas"
+        },
+        {
+            "id":13,
+            "name":"New Balance",
+            "price":60000,
+            "image":"slider_NB.webp",
+            "brand":"NB"
+        },
+        {
+            "id":14,
+            "name":"New Addidas",
+            "price":62000,
+            "image":"slider_addidas22.webp",
+            "brand":"addidas"
+        },
+        {
+            "id":15,
+            "name":"Puma_new",
+            "price":25000,
+            "image":"slider_puma.jpg",
+            "brand":"Puma"
+        },
+        {
+            "id":16,
+            "name":"NewBalanceWhite",
+            "price":35000,
+            "image":"new-balance_white.webp",
+            "brand":"NB"
+        },
+        {
+            "id":17,
+            "name":"Addidas_Sport",
+            "price":47000,
+            "image":"addidas_sport.jpg",
+            "brand":"addidas"
+        }
+    ]
+}
